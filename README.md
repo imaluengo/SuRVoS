@@ -1,3 +1,1 @@
-# SuRVoS: Super-Region Volume Segmentation workbench
-
-Coming soon!
+# Moved: [https://github.com/DiamondLightSource/SuRVoS](https://github.com/DiamondLightSource/SuRVoS)
